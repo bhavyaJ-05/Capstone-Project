@@ -25,7 +25,7 @@ Key components include:
 | **Python**        | Core language for implementation   |
 | **Pathway**       | Real-time stream processing engine |
 | **Bokeh**         | Interactive data visualization     |
-| **Google Colab**  | Development & experimentation      |
+| **Google Colab**  | Development & experimentation  https://colab.research.google.com/drive/1e9gr4qb2zy4D-N4uZujl_BMFryA9YDE0?usp=sharing   |
 
 ---
 
